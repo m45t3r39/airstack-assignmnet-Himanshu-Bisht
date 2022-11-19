@@ -56,7 +56,7 @@ To deploy the AWS Load Balancer Controller to an Amazon EKS cluster
 Follow the below document
 https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html
 
-Building and Pushing docker image to ECR
+# Building and Pushing docker image to ECR
 
 docker build -t ping-pong .
 
